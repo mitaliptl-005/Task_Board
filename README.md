@@ -4,7 +4,9 @@ A simple, clean, and functional Task Board web application built using **React**
 
 ---
 
-### 🔗 **Live Demo:**: https://task-board-umber.vercel.app/ 
+## Live Demo
+
+Link: https://task-board-umber.vercel.app/ 
 
 ---
 
