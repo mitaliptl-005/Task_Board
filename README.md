@@ -36,9 +36,9 @@ Link: https://task-board-umber.vercel.app/
 
 ## Tech Stack
 
-React (vite)       
-TypeScript   
-TailwindCSS
-Context API    
-LocalStorage   
+React (Vite) 
+TypeScript
+TailwindCSS 
+Context API 
+LocalStorage
 
