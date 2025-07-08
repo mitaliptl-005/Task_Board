@@ -1,19 +1,19 @@
-# 🗂️ Task Board Application
+# 🗂Task Board Application
 
 A simple, clean, and functional Task Board web application built using **React**, **TypeScript**, and **TailwindCSS**. This app allows users to collaborate by organizing tasks visually into boards, columns, and cards.
 
-> 🔗 **Live Demo:** [https://your-task-board.vercel.app](https://your-task-board.vercel.app)  
+### 🔗 **Live Demo:**: https://task-board-umber.vercel.app/ 
 
 ---
 
-## 📌 Features
+## Features
 
-### 🔹 Board View Page
+### Board View Page
 - Create new task boards
 - View all boards in a table format
 - Click a board to navigate to its detailed view
 
-### 🔹 Board Detail Page
+### Board Detail Page
 - Add/Edit/Delete **columns** (e.g., "To Do", "In Progress", "Done")
 - Create/Edit/Delete **tasks** within columns
 - Drag and drop tasks between columns and reorder them
@@ -21,7 +21,7 @@ A simple, clean, and functional Task Board web application built using **React**
 - Search tasks by **title** or **description**
 - Local storage used for data persistence
 
-### 🔹 Task Features
+### Task Features
 - Title
 - Description
 - Priority (High, Medium, Low)
@@ -30,7 +30,7 @@ A simple, clean, and functional Task Board web application built using **React**
 
 ---
 
-## 🧑‍💻 Tech Stack
+## Tech Stack
 
 React (vite)       
 TypeScript   
