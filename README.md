@@ -2,6 +2,8 @@
 
 A simple, clean, and functional Task Board web application built using **React**, **TypeScript**, and **TailwindCSS**. This app allows users to collaborate by organizing tasks visually into boards, columns, and cards.
 
+---
+
 ### 🔗 **Live Demo:**: https://task-board-umber.vercel.app/ 
 
 ---
